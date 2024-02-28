@@ -14,4 +14,4 @@ sudo pip install pyTelegramBotApi
 4. Edit main.py file, write your token and api key
    
 5. Run by typing:
-python3 <<path to your main.py file>>
+python3 <<main.py>>
